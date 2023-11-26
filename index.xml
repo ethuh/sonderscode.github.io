@@ -12,6 +12,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://sonderscode.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>First</title>
+      <link>https://sonderscode.github.io/first/</link>
+      <pubDate>Sun, 26 Nov 2023 23:28:21 +0800</pubDate>
+      
+      <guid>https://sonderscode.github.io/first/</guid>
+      <description>郁闷的一天</description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://sonderscode.github.io/test/</link>
       <pubDate>Sun, 26 Nov 2023 21:28:16 +0800</pubDate>
